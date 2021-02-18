@@ -1,0 +1,24 @@
+{
+  "name": "nodejsEmailReader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "base-64": "^1.0.0",
+    "base64-stream": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.0.0",
+    "lodash": "^4.17.20",
+    "node-cron": "^2.0.3",
+    "nodejs-base64": "^1.0.3",
+    "nodemailer": "^6.4.18"
+  }
+}
